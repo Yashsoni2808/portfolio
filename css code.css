@@ -4,7 +4,7 @@
   color: #eeeeee;
   font-family: "Poppins", sans-serif;
 }
-body section {
+body  {
   background: linear-gradient(
     90deg,
     rgb(97, 97, 97) 50%,
@@ -79,6 +79,9 @@ body section {
 }
 .content:hover a{
     background-color: rgba(0, 0, 0, 0.31);
+}
+.detiel{
+  margin-right: 30px;
 }
 
 
