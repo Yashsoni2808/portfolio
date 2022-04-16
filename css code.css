@@ -82,7 +82,7 @@ body {
 .detiel {
   margin-right: 30px;
 }
-@media (max-width: 450mpx) {
+@media (max-width: 450px) {
   .content {
     width: 80%;
   }
