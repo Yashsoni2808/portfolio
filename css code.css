@@ -82,7 +82,7 @@ body {
 .detiel {
   margin-right: 30px;
 }
-@media (max-width: 400px) {
+@media (max-width: 450mpx) {
   .content {
     width: 80%;
   }
@@ -94,4 +94,10 @@ body {
   .content {
     width: 80%;
   }
+  .content:hover {
+    background-color: rgba(0, 0, 0, 0.31); 
+    transform: none;
+  }
+ 
+  
 }
