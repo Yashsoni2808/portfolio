@@ -90,7 +90,7 @@ body {
     flex-direction: column;
   }
 }
-@media (max-width:880px) {
+@media (max-width: 880px) {
   .content {
     width: 80%;
   }
@@ -98,6 +98,5 @@ body {
     background-color: rgba(0, 0, 0, 0.31); 
     transform: none;
   }
- 
-  
+
 }
